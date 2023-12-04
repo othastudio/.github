@@ -28,11 +28,11 @@ Have a project in mind or just want to say hello? Reach out to us at [hello@otha
 
 ## 🛠️ Open Source Contributions
 
-Check out our open-source projects on [GitHub](https://github.com/otha-studio) and contribute to the growing JavaScript/TypeScript community.
+Check out our open-source projects on [GitHub](https://github.com/othastudio) and contribute to the growing JavaScript/TypeScript community.
 
 ## 📈 GitHub Stats
 
-[![Otha Studio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otha-studio&show_icons=true&count_private=true&theme=radical)](https://github.com/otha-studio)
+[![Otha Studio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=othastudio&show_icons=true&count_private=true&theme=radical)](https://github.com/otha-studio)
 
 Thank you for visiting Otha Studio! We look forward to creating amazing digital experiences together.
 
