@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://otha.studio" target="_blank">
-<img src="[https://i.ibb.co/r3jxsJk/Otha-github.png](https://i.ibb.co/r3jxsJk/Otha-github.png)" width="100%">
+<img src="[https://i.postimg.cc/JhhCh0Y8/Otha-github.png](https://i.postimg.cc/JhhCh0Y8/Otha-github.png)" width="100%">
 </a>
 </p>
 
