@@ -1,16 +1,14 @@
 <p align="center">
 <a href="https://otha.studio" target="_blank">
-<img src="https://otha.studio/wp-content/uploads/2023/05/otha-studio.png" width="400">
+<img src="[https://otha.studio/wp-content/uploads/2023/05/otha-studio.png](https://i.ibb.co/r3jxsJk/Otha-github.png)" width="100%">
 </a>
 </p>
-
-We are a digital product development & design studio where inspiration and elevation meet. Our focus lies in the JavaScript/TypeScript ecosystem, creating innovative and user-centric solutions.
 
 ## 🚀 About Us
 
 At Otha Studio, we believe in the power of technology to transform ideas into reality. Our team of passionate developers and designers collaborates to craft digital experiences that leave a lasting impact. From concept to execution, we're dedicated to delivering excellence.
 
-## 💻 Technologies We Love
+## 💻 Our Ecosystem
 
 - JavaScript
 - TypeScript
